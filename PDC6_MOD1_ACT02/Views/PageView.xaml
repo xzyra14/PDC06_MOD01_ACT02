@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PDC6_MOD1_ACTIVITY02.Views.PageView">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Subject Code" />
+            <Entry Text="{Binding SubjectSet.SubjectCode}"/>
+
+            <Label Text="Subject" />
+            <Entry Text="{Binding SubjectSet.SubjectTitle}"/>
+
+            <Label Text="Unit" />
+            <Entry Text="{Binding SubjectSet.Unit}"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

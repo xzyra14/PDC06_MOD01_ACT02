@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDC6_MOD1_ACTIVITY02.Android", "PDC6_MOD1_ACTIVITY02\PDC6_MOD1_ACTIVITY02.Android\PDC6_MOD1_ACTIVITY02.Android.csproj", "{B9BC9E8D-5386-48EE-A723-FD6D1D5406EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDC6_MOD1_ACTIVITY02", "PDC6_MOD1_ACTIVITY02\PDC6_MOD1_ACTIVITY02\PDC6_MOD1_ACTIVITY02.csproj", "{AB58B742-2A54-4DB2-BA70-0A353A34C205}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9BC9E8D-5386-48EE-A723-FD6D1D5406EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9BC9E8D-5386-48EE-A723-FD6D1D5406EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9BC9E8D-5386-48EE-A723-FD6D1D5406EF}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B9BC9E8D-5386-48EE-A723-FD6D1D5406EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9BC9E8D-5386-48EE-A723-FD6D1D5406EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9BC9E8D-5386-48EE-A723-FD6D1D5406EF}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{AB58B742-2A54-4DB2-BA70-0A353A34C205}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB58B742-2A54-4DB2-BA70-0A353A34C205}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB58B742-2A54-4DB2-BA70-0A353A34C205}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{AB58B742-2A54-4DB2-BA70-0A353A34C205}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB58B742-2A54-4DB2-BA70-0A353A34C205}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB58B742-2A54-4DB2-BA70-0A353A34C205}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A8110E8-E0BB-4F55-8E68-9CED7431518D}
+	EndGlobalSection
+EndGlobal
